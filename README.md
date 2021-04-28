@@ -1,3 +1,9 @@
+# Snowpack build watch ignores package options external
+
+Demonstrates unexpected behavior with Snowpack build/watch. Reported here: https://github.com/snowpackjs/snowpack/issues/3223
+
+---
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
